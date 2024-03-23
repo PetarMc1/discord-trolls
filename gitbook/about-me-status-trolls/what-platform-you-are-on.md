@@ -1,4 +1,4 @@
-# About Me -> What platform you are on
+# What platform you are on
 
 There is a way to tell a user if he is on mobile or computer. It is used it the About Me section of a Discord Profile.
 
