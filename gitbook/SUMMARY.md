@@ -15,5 +15,5 @@
 
 ## About Me / Status Trolls
 
-* [About Me -> What platform you are on](about-me-status-trolls/about-me-greater-than-what-platform-you-are-on.md)
-* [Status -> Warrning](about-me-status-trolls/status-greater-than-warrning.md)
+* [What platform you are on](about-me-status-trolls/what-platform-you-are-on.md)
+* [User Warning](about-me-status-trolls/user-warning.md)
